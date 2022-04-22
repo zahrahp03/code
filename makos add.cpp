@@ -17,4 +17,3 @@ cout<<"\n\n\n"<<"press any key to exit...";
 getch();
 return 0;
 }
-//>     sourceiran.com
